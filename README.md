@@ -34,7 +34,8 @@ A Gradio interface was created (app_gradio.py) to upload images and predict dise
 python app_gradio.py
 ### The app runs locally at:
 http://127.0.0.1:7860
-
+## APP
+gradio(https://huggingface.co/spaces/Manosree30/PlantVillage)
 ## Libraries Used
 TensorFlow / Keras
 NumPy
